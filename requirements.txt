@@ -1,4 +1,5 @@
 Flask
+zbar
 gunicorn
 requests
 opencv-python
